@@ -21,7 +21,7 @@ Based on these values, the application predicts the possibility of the patient h
 
 - **Age**  
 - **Sex** (Male/Female)  
-- **Chest Pain Type**  
+- **Chest Pain Type** (0-Typical Angina 1-Atypical Angina 2-Non-Anginal Pain 3-Asymptomatic)
 - **Resting Blood Pressure**  
 - **Cholesterol**  
 - **Fasting Blood Sugar**  
