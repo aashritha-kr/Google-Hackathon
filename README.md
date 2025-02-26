@@ -25,13 +25,13 @@ Based on these values, the application predicts the possibility of the patient h
 - **Resting Blood Pressure**  
 - **Cholesterol**  
 - **Fasting Blood Sugar**  
-- **Resting ECG**  
+- **Resting ECG** (0 = Normal, 1 = ST-T wave abnormality, 2 = Left ventricular hypertrophy)
 - **Max Heart Rate Achieved**  
-- **Exercise-Induced Angina**  
+- **Exercise-Induced Angina**(0 = No, 1 = Yes)  
 - **ST Depression**  
-- **Slope of the Peak ST Segment**  
+- **Slope of the Peak ST Segment** (0 = Upsloping, 1 = Flat, 2 = Downsloping)
 - **Number of Major Vessels Colored**  
-- **Thalassemia**  
+- **Thalassemia**  (0 = Normal, 1 = Fixed Defect, 2 = Reversible Defect)
 
 ## Installation
 
