@@ -37,8 +37,7 @@ Based on these values, the application predicts the possibility of the patient h
 
 1. **Clone the Repository**  
    ```bash
-   git clone <Git link>
-   cd heart-disease-prediction
+   git clone https://github.com/aashritha-kr/Google-Hackathon.git
 
 2. **Install Dependencies**
    ```bash
